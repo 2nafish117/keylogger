@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524215455 source:c:\users\ade156\desktop\lab progs\daa\logger\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1524236407 source:c:\users\ade156\desktop\codeblocks  save\new folder\logger\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<ctime>
+	<unistd.h>
+
